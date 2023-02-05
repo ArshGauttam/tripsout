@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "374246040769",
+    "project_id": "tripsout-2406",
+    "storage_bucket": "tripsout-2406.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374246040769:android:c2038f3521388d21e2e040",
+        "android_client_info": {
+          "package_name": "com.example.tripsout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374246040769-31817f2mnuk1ed324am28sq7u6joj77i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ_tErPpMBVXF0_v340EbncmiEmYVgsKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374246040769-31817f2mnuk1ed324am28sq7u6joj77i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
